@@ -369,6 +369,23 @@ height:50vh;
 <!-- City版安装代码已完成 -->
     
     
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+    var gitment = new Gitment({
+        // id: "My New Post", // 可选。默认为 location.href
+        owner: 'JacCheng',
+        repo: 'https://github.com/JacCheng',
+        oauth: {
+            client_id: '86ba9e29b5e9a6dea073',
+            client_secret: '90aa45f446b2c73bd132a0123438c6afd8891125',
+        },
+    })
+    gitment.render('container')
+
+</script>
+
     <!--PC版-->
 
     <!--PC版-->
