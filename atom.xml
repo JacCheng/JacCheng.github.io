@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-07T05:40:49.075Z</updated>
+  <updated>2018-05-03T05:21:46.838Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,45 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ccccc</title>
-    <link href="http://yoursite.com/2018/04/06/My-New-Post/"/>
-    <id>http://yoursite.com/2018/04/06/My-New-Post/</id>
-    <published>2018-04-06T08:18:06.000Z</published>
-    <updated>2018-04-07T05:40:49.075Z</updated>
+    <title>IRR XIRR</title>
+    <link href="http://yoursite.com/2018/05/03/irr-xirr/"/>
+    <id>http://yoursite.com/2018/05/03/irr-xirr/</id>
+    <published>2018-05-03T05:10:19.000Z</published>
+    <updated>2018-05-03T05:21:46.838Z</updated>
     
-    <content type="html"><![CDATA[<p>cccc</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;cccc&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/04/06/hello-world/"/>
-    <id>http://yoursite.com/2018/04/06/hello-world/</id>
-    <published>2018-04-06T07:38:58.799Z</published>
-    <updated>2018-04-06T07:38:58.800Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>##一款IRR、XIRR的计算应用软件，方便用户计算投资内部收益率。<br>—内部收益率（Internal Rate of Return (IRR)），就是资金流入现值总额与资金流出现值总额相等、净现值等于零时的折现率。<br>—XIRR反映一组现金流的内部收益率，这些现金流不一定定期发生。<br>Android下载链接: <a href="https://www.pgyer.com/d90r" target="_blank" rel="noopener">https://www.pgyer.com/d90r</a></p><p><img src="./_image/11.png" alt=""></p><p><img src="./_image/11.png" alt=""></p><p><img src="./_image/33.png" alt=""></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;##一款IRR、XIRR的计算应用软件，方便用户计算投资内部收益率。&lt;br&gt;—内部收益率（Internal Rate of Return (IRR)），就是资金流入现值总额与资金流出现值总额相等、净现值等于零时的折现率。&lt;br&gt;—XIRR反映一组现金流的内部收益率，这些现金
       
     
     </summary>
     
+    
+      <category term="IRR XIRR 投资收益 理财工具" scheme="http://yoursite.com/tags/IRR-XIRR-%E6%8A%95%E8%B5%84%E6%94%B6%E7%9B%8A-%E7%90%86%E8%B4%A2%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   

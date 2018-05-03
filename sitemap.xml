@@ -2,23 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/05/03/irr-xirr/</loc>
+    
+    <lastmod>2018-05-03T05:21:46.838Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/about/index.html</loc>
     
     <lastmod>2018-04-09T11:48:00.291Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/04/06/My-New-Post/</loc>
-    
-    <lastmod>2018-04-07T05:40:49.075Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2018/04/06/hello-world/</loc>
-    
-    <lastmod>2018-04-06T07:38:58.800Z</lastmod>
     
   </url>
   
